@@ -2,158 +2,158 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/discovery/Navigate_CMR_STAC.html</loc>
-    <lastmod>2021-06-25T21:22:05.908Z</lastmod>
+    <lastmod>2021-06-25T21:26:16.794Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/discovery/cmr-virtual-directories.html</loc>
-    <lastmod>2021-06-25T21:22:06.116Z</lastmod>
+    <lastmod>2021-06-25T21:26:17.174Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/discovery/index.html</loc>
-    <lastmod>2021-06-25T21:22:06.312Z</lastmod>
+    <lastmod>2021-06-25T21:26:17.350Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/discovery/earthdata-search-ui.html</loc>
-    <lastmod>2021-06-25T21:22:06.500Z</lastmod>
+    <lastmod>2021-06-25T21:26:17.534Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/index.html</loc>
-    <lastmod>2021-06-25T21:22:06.696Z</lastmod>
+    <lastmod>2021-06-25T21:26:17.714Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/cof-via-harmony.html</loc>
-    <lastmod>2021-06-25T21:22:06.872Z</lastmod>
+    <lastmod>2021-06-25T21:26:17.894Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/download-to-local.html</loc>
-    <lastmod>2021-06-25T21:22:07.056Z</lastmod>
+    <lastmod>2021-06-25T21:26:18.058Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/index.html</loc>
-    <lastmod>2021-06-25T21:22:07.248Z</lastmod>
+    <lastmod>2021-06-25T21:26:18.226Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/data-access-example.html</loc>
-    <lastmod>2021-06-25T21:22:07.440Z</lastmod>
+    <lastmod>2021-06-25T21:26:18.390Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/earthdata-search.html</loc>
-    <lastmod>2021-06-25T21:22:07.632Z</lastmod>
+    <lastmod>2021-06-25T21:26:18.558Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/opendap-cloud.html</loc>
-    <lastmod>2021-06-25T21:22:07.816Z</lastmod>
+    <lastmod>2021-06-25T21:26:18.726Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/podaac-ecco-data_access-cloud_direct_access_s3.html</loc>
-    <lastmod>2021-06-25T21:22:08.244Z</lastmod>
+    <lastmod>2021-06-25T21:26:19.090Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/access/direct-in-region.html</loc>
-    <lastmod>2021-06-25T21:22:08.436Z</lastmod>
+    <lastmod>2021-06-25T21:26:19.254Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/index.html</loc>
-    <lastmod>2021-06-25T21:22:08.664Z</lastmod>
+    <lastmod>2021-06-25T21:26:19.442Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/setup.html</loc>
-    <lastmod>2021-06-25T21:22:08.900Z</lastmod>
+    <lastmod>2021-06-25T21:26:19.650Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/contributing/workflow.html</loc>
-    <lastmod>2021-06-25T21:22:09.436Z</lastmod>
+    <lastmod>2021-06-25T21:26:20.134Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/appendix/index.html</loc>
-    <lastmod>2021-06-25T21:22:09.620Z</lastmod>
+    <lastmod>2021-06-25T21:26:20.302Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/appendix/about.html</loc>
-    <lastmod>2021-06-25T21:22:09.788Z</lastmod>
+    <lastmod>2021-06-25T21:26:20.466Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/appendix/glossary.html</loc>
-    <lastmod>2021-06-25T21:22:09.976Z</lastmod>
+    <lastmod>2021-06-25T21:26:20.634Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/r-example.html</loc>
-    <lastmod>2021-06-25T21:22:10.284Z</lastmod>
+    <lastmod>2021-06-25T21:26:20.942Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/index.html</loc>
-    <lastmod>2021-06-25T21:22:10.456Z</lastmod>
+    <lastmod>2021-06-25T21:26:21.110Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/notebook-example.html</loc>
-    <lastmod>2021-06-25T21:22:10.656Z</lastmod>
+    <lastmod>2021-06-25T21:26:21.290Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/examples/python-example.html</loc>
-    <lastmod>2021-06-25T21:22:10.916Z</lastmod>
+    <lastmod>2021-06-25T21:26:21.498Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/L2-subsetter.html</loc>
-    <lastmod>2021-06-25T21:22:11.100Z</lastmod>
+    <lastmod>2021-06-25T21:26:21.674Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/index.html</loc>
-    <lastmod>2021-06-25T21:22:11.284Z</lastmod>
+    <lastmod>2021-06-25T21:26:21.842Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/harmonypy.html</loc>
-    <lastmod>2021-06-25T21:22:11.468Z</lastmod>
+    <lastmod>2021-06-25T21:26:22.010Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/netcdf-to-zarr.html</loc>
-    <lastmod>2021-06-25T21:22:11.660Z</lastmod>
+    <lastmod>2021-06-25T21:26:22.182Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/earthdata-search.html</loc>
-    <lastmod>2021-06-25T21:22:11.840Z</lastmod>
+    <lastmod>2021-06-25T21:26:22.362Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/harmony-api.html</loc>
-    <lastmod>2021-06-25T21:22:12.016Z</lastmod>
+    <lastmod>2021-06-25T21:26:22.530Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/opendap-cloud.html</loc>
-    <lastmod>2021-06-25T21:22:12.184Z</lastmod>
+    <lastmod>2021-06-25T21:26:22.694Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/transformations/HarmonyPy_intro_tutorial.html</loc>
-    <lastmod>2021-06-25T21:22:12.596Z</lastmod>
+    <lastmod>2021-06-25T21:26:23.058Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/get-started/earthdata-login.html</loc>
-    <lastmod>2021-06-25T21:22:12.800Z</lastmod>
+    <lastmod>2021-06-25T21:26:23.238Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/get-started/index.html</loc>
-    <lastmod>2021-06-25T21:22:13.000Z</lastmod>
+    <lastmod>2021-06-25T21:26:23.414Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/get-started/lpdaac-netrc.html</loc>
-    <lastmod>2021-06-25T21:22:13.196Z</lastmod>
+    <lastmod>2021-06-25T21:26:23.590Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/get-started/how-to-use.html</loc>
-    <lastmod>2021-06-25T21:22:13.380Z</lastmod>
+    <lastmod>2021-06-25T21:26:23.754Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/get-started/podaac-ecco-netrc.html</loc>
-    <lastmod>2021-06-25T21:22:13.600Z</lastmod>
+    <lastmod>2021-06-25T21:26:23.974Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/get-started/authentication.html</loc>
-    <lastmod>2021-06-25T21:22:13.784Z</lastmod>
+    <lastmod>2021-06-25T21:26:24.138Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/get-started/api-primer.html</loc>
-    <lastmod>2021-06-25T21:22:13.956Z</lastmod>
+    <lastmod>2021-06-25T21:26:24.302Z</lastmod>
   </url>
   <url>
     <loc>https:/nasa-openscapes.github.io/earthdata-cloud-cookbook/processing/processing.html</loc>
-    <lastmod>2021-06-25T21:22:14.144Z</lastmod>
+    <lastmod>2021-06-25T21:26:24.470Z</lastmod>
   </url>
 </urlset>
